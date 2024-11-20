@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e6c13ad2.css",
+    "main.js": "/static/js/main.d486c475.js",
+    "static/js/453.dbe97c61.chunk.js": "/static/js/453.dbe97c61.chunk.js",
+    "static/media/jardinagem.png": "/static/media/jardinagem.a5c4768c8a56b5b77d12.png",
+    "static/media/slide2.png": "/static/media/slide2.5b7d2392e474477bf553.png",
+    "static/media/slide1.png": "/static/media/slide1.b34528bafae993a194d1.png",
+    "static/media/ods12.jpg": "/static/media/ods12.27a90e81b81001648945.jpg",
+    "static/media/jardinagem4.jpeg": "/static/media/jardinagem4.0503b73434ce9e52875c.jpeg",
+    "static/media/calculadora.png": "/static/media/calculadora.ab6136db807899c0e834.png",
+    "static/media/df501a1b-d809-4e1b-bce6-20d61a63c790.jpeg": "/static/media/df501a1b-d809-4e1b-bce6-20d61a63c790.d1e948cc3b570628316b.jpeg",
+    "static/media/jardinagem3.webp": "/static/media/jardinagem3.66c0650f72907e8b1eec.webp",
+    "static/media/logocompleta.png": "/static/media/logocompleta.35433f9974c1dec21a9a.png",
+    "static/media/LogoOng.png": "/static/media/LogoOng.73f81d69d3ac5385318b.png",
+    "index.html": "/index.html",
+    "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
+    "main.d486c475.js.map": "/static/js/main.d486c475.js.map",
+    "453.dbe97c61.chunk.js.map": "/static/js/453.dbe97c61.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.d486c475.js"
+  ]
+}
